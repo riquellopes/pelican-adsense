@@ -13,12 +13,18 @@ class Tpl(object):
         <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px"
                      data-ad-client="{{client}}"
                     data-ad-slot="{{slot}}"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
     """.strip()
     LINK = """
         <!-- middle-blog -->
         <ins class="adsbygoogle" style="display:inline-block;width:728px;height:15px"
                      data-ad-client="{{client}}"
                      data-ad-slot="{{slot}}"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
     """.strip()
 
 
