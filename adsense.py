@@ -15,6 +15,7 @@ class Tpl(object):
                     data-ad-slot="{{slot}}"></ins>
     """.strip()
     LINK = """
+        <!-- middle-blog -->
         <ins class="adsbygoogle" style="display:inline-block;width:728px;height:15px"
                      data-ad-client="{{client}}"
                      data-ad-slot="{{slot}}"></ins>
