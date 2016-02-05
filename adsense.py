@@ -14,6 +14,11 @@ class Tpl(object):
                      data-ad-client="{{client}}"
                     data-ad-slot="{{slot}}"></ins>
     """.strip()
+    LINK = """
+        <ins class="adsbygoogle" style="display:inline-block;width:728px;height:15px"
+                     data-ad-client="{{client}}"
+                     data-ad-slot="{{slot}}"></ins>
+    """.strip()
 
 
 def get_tpl(type_ad):

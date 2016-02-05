@@ -22,6 +22,11 @@ def test_get_tpl_head():
     assert tpl == Tpl.HEAD
 
 
+def test_get_tpl_link():
+    tpl = get_tpl("link")
+    assert tpl == Tpl.LINK
+
+
 def test_does_not_tpl_exists():
     with pytest.raises(AttributeError):
         get_tpl("anything")
