@@ -2,6 +2,8 @@
 
 Pelica Google Adsense
 =====================
+If you would like add the [Google Adsense](https://www.google.com/intl/pt-BR_br/adsense/start/#/?modal_active=none) in your blog, this is a simple pelican plugin integration to convert
+a [markdown tag](https://guides.github.com/features/mastering-markdown/) in a google javascript code.
 
 #### Installation
 
@@ -12,5 +14,5 @@ Pelica Google Adsense
 ```
 
 #### TODO
- * add new type_ad, in first release i just added type_ad=head.
+ * Add new type_ad. In the first release, I just added type_ad=head.
  * create new tests.
