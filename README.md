@@ -7,7 +7,7 @@ a [markdown tag](https://guides.github.com/features/mastering-markdown/) in a go
 
 #### Installation
 ```sh
-    pip install -U https://github.com/riquellopes/pelican-adsense/tarball/master
+pip install -U https://github.com/riquellopes/pelican-adsense/tarball/master
 ```
 
 #### Usage
