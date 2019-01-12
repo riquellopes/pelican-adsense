@@ -6,6 +6,9 @@ If you would like add the [Google Adsense](https://www.google.com/intl/pt-BR_br/
 a [markdown tag](https://guides.github.com/features/mastering-markdown/) in a google javascript code.
 
 #### Installation
+```sh
+    pip install -U https://github.com/riquellopes/pelican-adsense/tarball/master
+```
 
 #### Usage
 
