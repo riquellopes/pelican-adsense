@@ -1,2 +1,1 @@
-pytest==2.8.7
-pelican=>3.6.3
+pelican==4.0.1
